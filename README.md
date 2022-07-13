@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @jonarielm
-- 👀 I’m interested in CRUD applications, Socket Programming, Game Development, and Programming Competitions.
-- 🌱 I’m currently learning Basic Machine Learning.
-- 📫 You can reach me at jmaravilla@gbox.adnu.edu.ph
+- 👀 I’m interested in CRUD applications, Software Development, Automation and Machine learning.
+- 📫 You can reach me at jonarielm@gmail.com
